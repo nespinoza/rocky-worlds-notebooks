@@ -1,0 +1,26 @@
+name: rw-paper
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pip
+
+  # Compiled/binary stack: let Conda handle these
+  - numpy=1.26.4
+  - scipy
+  - numba=0.60
+  - llvmlite=0.43
+
+  - pip:
+      - matplotlib==3.9.4
+      - seaborn==0.13.2
+      - pandas==2.2.3
+      - astropy==6.1.7
+      - astroquery==0.4.10
+      - plotly==6.0.1
+      - jupyterlab
+      - notebook
+      - ipykernel
+      - spright
