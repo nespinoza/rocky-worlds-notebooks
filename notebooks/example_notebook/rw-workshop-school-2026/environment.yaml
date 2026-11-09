@@ -1,0 +1,14 @@
+name: rw-hlsps
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - ipykernel
+  - jupyterlab
+  - numpy
+  - scipy
+  - matplotlib
+  - astropy
+  - astroquery
