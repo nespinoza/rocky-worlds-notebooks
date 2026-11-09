@@ -1,5 +1,5 @@
 # 🌍 Rocky Worlds Early Career School — HLSPs session
-**Author**: Nestor Espinoza | **Date**: November 2026
+**Author**: Nestor Espinoza (STScI) | **Date**: November 2026
 
 This notebook provides a self-contained tutorial on how to access, use and inspect the Rocky Worlds DDT High Level Science Data Products (HLSPs) which live in MAST (https://archive.stsci.edu/hlsp/rocky-worlds). 
 
