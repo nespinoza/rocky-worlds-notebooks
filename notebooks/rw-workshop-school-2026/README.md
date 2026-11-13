@@ -24,7 +24,7 @@ cd rocky-worlds-notebooks-rw-hlsps/notebooks/rw-workshop-school-2026
 Then, from a terminal, run:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate rw-hlsps
 ```
 
